@@ -10,10 +10,9 @@ The goal is to provide empirical evidence supporting algorithm selection under d
 
 ### 👥 Group 4 Members:
 * Bandar Qaid Ahmed Abdulrab
-* Fadilah
-* Cahyo
-* [Name 4] 
-* [Name 5] 
+* Enggal Meureksa Ibrahim
+* Sinta Nuria
+* Vani Oktaviani
 
 ## 📊 Datasets & Methodology
 The experiment is divided into two main axes:
@@ -39,9 +38,9 @@ The experiment is divided into two main axes:
 ## 📁 Project Assets
 To view the full presentation and demonstration of this project, please access the files below:
 
-* **[📄 Read the Full Research Article (PDF/Docx)](Link_to_your_Gdrive_Document)**
-* **[🖥️ View the Presentation Slides (PPTX)](Link_to_your_Gdrive_PPTX)**
-* **[🎬 Watch the Project Video Demonstration](Link_to_your_Gdrive_Video)**
+* **[📄 Read the Full Research Article (PDF/Docx)](https://docs.google.com/document/d/1QQn2oji7D6Hm4a7W43_boZkD5CmtsISP/edit?usp=drive_link&ouid=111564495738922490581&rtpof=true&sd=true)**
+* **[🖥️ View the Presentation Slides (PPTX)](https://drive.google.com/file/d/1b34qPlH5SXwgyI_ijbjRBSJNEtyAJW15/view?usp=drive_link)**
+* **[🎬 Watch the Project Video Demonstration](https://drive.google.com/file/d/1s7quRj-9JibEBRsJQtXnlemsP0UBNMe0/view?usp=drive_link)**
 
 ## 💻 Tech Stack
 * Python 3
